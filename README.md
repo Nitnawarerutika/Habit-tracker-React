@@ -10,7 +10,7 @@ for storing and managing the data, and EJS for rendering the views and templates
 
 ### Tech Stack
 
-Node , Express, Mongodb , EJS , javaScript , html, css
+React, Node , Express, Mongodb , EJS , javaScript , html, css
 
 ### How to setup the project on local system
 
