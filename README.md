@@ -31,16 +31,20 @@ After reaching the project directory you have to run the following the command.
   
   # HomePage
  
-  
+  ![home](https://github.com/Nitnawarerutika/Habit-tracker-React/assets/130966188/d37299f6-b5af-4a3b-91ef-27c1605f2834)
+
   # Sign-Up
+![Capture1](https://github.com/Nitnawarerutika/Habit-tracker-React/assets/130966188/03bd35df-c838-41ff-b1e5-601a5ddee987)
 
 
   # Sign-In
 
-  
+  ![signin](https://github.com/Nitnawarerutika/Habit-tracker-React/assets/130966188/78e73536-39c0-4065-b87e-1b520181a871)
+
   # Daily View
 
-  
+  ![daily](https://github.com/Nitnawarerutika/Habit-tracker-React/assets/130966188/2f9bedc9-f185-421b-bff3-bc45c481c339)
+
 
 
  
