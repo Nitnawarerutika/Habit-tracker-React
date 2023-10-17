@@ -26,7 +26,7 @@ module.exports.home = async function(req, res){
             title : "Habit Tracker",
             habits : habits,
             weeklyDates : await getOneWeekDate()
-            // userName : "Praduman"
+
 
         })
     }else{
